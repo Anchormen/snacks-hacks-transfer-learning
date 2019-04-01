@@ -24,6 +24,6 @@
 
 1. **Make the notebook work.** Training on your laptop's CPU will take a long time with the current settings, so make sure to set the number of epochs to 1 and the number of random samples to use for training to 1000. Training should then take ~15 minutes.  (TOTALLY OPTIONAL: If you want to train faster with TPU's, you can create a google cloud platform account which comes with $300 free credit, and then run this notebook in Google Colab: https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb. However, this is totally optional, and can be skipped.)
 
-1. **Adapt the notebook to work with on a new interesting NLP problem.** Find datasets here: https://github.com/niderhoff/nlp-datasets or https://www.figure-eight.com/data-for-everyone/.
+1. **Adapt the notebook to fine-tune Bert with new data to apply it to a new interesting NLP problem.** Find datasets here: https://github.com/niderhoff/nlp-datasets or https://www.figure-eight.com/data-for-everyone/.
 
 Have fun!

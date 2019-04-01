@@ -27,3 +27,12 @@
 1. **Adapt the notebook to fine-tune Bert with new data to apply it to a new interesting NLP problem.** Find datasets here: https://github.com/niderhoff/nlp-datasets or https://www.figure-eight.com/data-for-everyone/.
 
 Have fun!
+
+# Links
+
+- Papers
+  - BERT paper: https://arxiv.org/abs/1810.04805
+  - Transformers paper (Attention is all you need): https://arxiv.org/abs/1706.03762
+- Useful blogs:
+  - Illustrated Bert: http://jalammar.github.io/illustrated-bert/
+  - Illustrated Transformers: https://jalammar.github.io/illustrated-transformer/

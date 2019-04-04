@@ -1,3 +1,13 @@
+
+# Pick your assignment
+
+You can choose to either practice transfer learning with:
+
+- cats and dogs image classification (easier)
+- fine-tuning BERT for a new NLP task (for the more experienced)
+
+If you want to go for cats and dogs image classification, clone the following repo: https://gitlab.com/whendrik/intro_transfer_learning. If you want to fine-tune with BERT, follow the instructions below.
+
 # Setup
 
 ## Install python (anaconda)
